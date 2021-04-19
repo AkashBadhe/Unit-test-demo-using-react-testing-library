@@ -1,0 +1,35 @@
+{
+  "name": "react-unit-test-demo-using-creact-testing-library",
+  "version": "1.0.0",
+  "description": "Sample Todo widget to help understand testing with react-testing-library",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-testing-library",
+    "demo"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "2.0.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "react-testing-library": "^5.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
